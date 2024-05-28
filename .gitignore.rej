@@ -1,0 +1,6 @@
+diff a/.gitignore b/.gitignore	(rejected hunks)
+@@ -91,3 +91,4 @@
+ 
+ #test
+ #test2
++#test3
